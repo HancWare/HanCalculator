@@ -1,4 +1,4 @@
-# Hanc Calculator 🧮  
+# HanCalculator 🧮  
 
 A modern, open-source calculator.
 Made by **HancWare** as part of **AIR**.  
