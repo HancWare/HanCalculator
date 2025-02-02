@@ -1,7 +1,7 @@
 # Hanc Calculator 🧮  
 
-A modern, open-source calculator inspired by Windows 10's built-in calculator.  
-Made by **HancWare** as part of **An Internet Revolution (AIR)**.  
+A modern, open-source calculator.
+Made by **HancWare** as part of **AIR**.  
 
 ## 🚀 Features  
 ✔ Modern dark theme  
