@@ -1,0 +1,20 @@
+
+---
+
+### 📄 **.gitignore**  
+To ignore unnecessary files in Git, create `.gitignore`:
+
+```gitignore
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
